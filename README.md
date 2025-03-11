@@ -1,4 +1,4 @@
-https://github.com/AnthonyIgwe1/devops-essentials-sample-app/blob/master/devop-diagram.PNG.png
+https://github.com/AnthonyIgwe1/devops-essentials-sample-app/blob/master/devop-diagram.png
 # DevOps Essentials Sample App
 
 ## Overview
